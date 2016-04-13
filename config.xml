@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:cdv   = "http://cordova.apache.org/ns/1.0"
+        id          = "re.ray.infi"
+        version     = "1" >
+
+
+    <name>Infi</name>
+    <description>
+        El juego más adictivo.
+    </description>
+    <author email="contacto@creepypastas.com" href="https://creepypastas.com">
+        Creepypastas.com
+    </author>
+    <preference name="permissions" value="none"/>
+
+    <content src="index.html" />
+    <icon src="icon-256.png" />
+    <access origin="*" />
+</widget>
