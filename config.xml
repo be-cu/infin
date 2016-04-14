@@ -9,6 +9,7 @@
     <author email="contacto@creepypastas.com" href="https://creepypastas.com">Creepypastas.com</author>
 
     <preference name="permissions" value="none"/>
+    <preference name="android-build-tool" value="gradle" />
     <plugin name="cordova-plugin-admobpro" spec="~2.13.0" />
 
     <content src="index.html" />
