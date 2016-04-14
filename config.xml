@@ -4,15 +4,12 @@
         id          = "re.ray.infi"
         version     = "1" >
 
-
     <name>Infi</name>
-    <description>
-        El juego más adictivo.
-    </description>
-    <author email="contacto@creepypastas.com" href="https://creepypastas.com">
-        Creepypastas.com
-    </author>
+    <description>El juego más adictivo.</description>
+    <author email="contacto@creepypastas.com" href="https://creepypastas.com">Creepypastas.com</author>
+
     <preference name="permissions" value="none"/>
+    <plugin name="cordova-plugin-admobpro" spec="~2.13.0" />
 
     <content src="index.html" />
     <icon src="icon-256.png" />
